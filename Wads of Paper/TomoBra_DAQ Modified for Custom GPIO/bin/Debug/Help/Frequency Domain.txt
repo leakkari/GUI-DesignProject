@@ -1,0 +1,16 @@
+To start taking Frequency Domain measurements:
+1. Go to VNA tab and connect / configure measurement device (e.g. PNA / VNA)
+2. Go to Frequency Domain tab...
+
+Before starting measurements...
+- Select save folder
+- Select file name format (default sig_A#_A#.txt)
+
+SINGLE: 
+- Can plot and view the signal immediately by pressing the single button
+- In order to save the signal to global array (and to view in the Visualizer) then set RX/TX values in Switching Matrix tab
+
+FULL ARRAY:
+- Check "store signal"  to save to global array (and to view in Visualizer)
+- This option will take 16 X 16 measurements
+

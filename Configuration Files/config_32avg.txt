@@ -1,0 +1,20 @@
+Trig:Source Direct
+Acq:Ch1:Mode AvgStab
+Acq:Ch2:Mode AvgStab
+Acq:Ch1:NAvg 32
+Acq:Ch2:NAvg 32
+Acq:Ch1:RecLen 4096
+Acq:Ch2:RecLen 4096
+Ch2:Display On
+Ch1:Scale 0.02
+Ch2:Scale 0.200
+Ch1:Offset 0.0
+Ch2:Offset 0.0
+Displ:Ch1:Style Vectors
+Displ:Ch2:Style Vectors
+TB:Mode B
+TB:ScaleA 2.5e-9
+TB:ScaleB 2.5e-9
+TB:Delay 5e-9
+Save:Disk:FileFormat Verbose
+*Run

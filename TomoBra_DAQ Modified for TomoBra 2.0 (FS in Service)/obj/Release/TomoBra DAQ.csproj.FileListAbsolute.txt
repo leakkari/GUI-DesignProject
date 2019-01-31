@@ -1,0 +1,36 @@
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.exe.config
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\Interop.AgtServer8714Lib.dll
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\Interop.BLXLServersLib.dll
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\Interop.PicoScope9000.dll
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.csproj.ResolveComReference.cache
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.csprojResolveAssemblyReference.cache
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra_DAQ.form_main.resources
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra_DAQ.Properties.Resources.resources
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.csproj.GenerateResource.Cache
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.exe.licenses
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.exe.manifest
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.application
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.exe
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.pdb
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.exe.manifest
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.application
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.exe
+C:\Users\Experiments\Documents\Karim\Switching Matrix\Taylor - Copy\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.pdb
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.exe.config
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\Interop.AgtServer8714Lib.dll
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\Interop.BLXLServersLib.dll
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\Interop.PicoScope9000.dll
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.csproj.ResolveComReference.cache
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.exe
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.pdb
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.exe.manifest
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.application
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.exe
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\bin\Release\TomoBra DAQ.pdb
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.csprojResolveAssemblyReference.cache
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra_DAQ.form_main.resources
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra_DAQ.Properties.Resources.resources
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.csproj.GenerateResource.Cache
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.exe.licenses
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.exe.manifest
+C:\Users\Experiments\Documents\Karim\Switching Matrix\TomoDAQ.20181129\TomoBra_DAQ Modified for TomoBra 2.0 (FS in Service)\obj\Release\TomoBra DAQ.application

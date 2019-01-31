@@ -1,0 +1,20 @@
+Trig:Source IntClock
+Acq:Ch1:Mode AvgMult
+Acq:Ch2:Mode AvgMult
+Acq:Ch1:NAvg 32
+Acq:Ch2:NAvg 32
+Acq:Ch1:RecLen 2048
+Acq:Ch2:RecLen 2048
+Ch2:Display On
+Ch1:Scale 0.05
+Ch2:Scale 0.100
+Ch1:Offset 0.0
+Ch2:Offset 0.0
+Displ:Ch1:Style Vectors
+Displ:Ch2:Style Vectors
+TB:Mode B
+TB:ScaleA 10e-9
+TB:ScaleB 2.5e-9
+TB:Delay 5e-9
+Save:Disk:FileFormat Verbose
+*Run

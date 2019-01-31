@@ -1,0 +1,4 @@
+Double click a graph in order to copy image to clipboard.
+
+Visualizer can view any signal stored in the global array. This can be done by loading or by collecting a signal.
+

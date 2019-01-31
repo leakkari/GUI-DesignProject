@@ -1,0 +1,9 @@
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\bin\Debug\Custom GPIO.exe
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\bin\Debug\Custom GPIO.pdb
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\obj\x86\Debug\Custom_GPIO.Form1.resources
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\obj\x86\Debug\Custom_GPIO.Properties.Resources.resources
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\obj\x86\Debug\Custom GPIO.exe
+C:\Users\user01\Desktop\Taylor\Custom GPIO in Visual Studio\Custom GPIO\obj\x86\Debug\Custom GPIO.pdb

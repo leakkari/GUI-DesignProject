@@ -1,0 +1,31 @@
+LOADING DATA:
+
+- The program can load  a single signal or an entire array of signals to the program's global array
+- Can load baseline or signal
+- These loaded signals can be viewed using the "Visualizer"
+- Once loaded, a checkmark will appear the name of the loaded signal in the menu bar
+
+
+TIME DOMAIN:
+
+- Loading is disabled when collecting a TD signal of the same type (e.g. when collecting baseline, cannot load a baseline)
+
+- In order to load a single signal, select the file you would like to load
+
+- In order to load a full array of signals, select one file of the 240 signals you would like to load (anyone will work)
+
+- If there is an error loading the signal it is possible that 1. a file is missing 2.  the file name format is incorrect (check the "File name format" textbox in the TD tab). The file name format should be in the following form: sig_%TX%_%RX%.txt
+NOTE: the program automatically detects the following suffixes ( hw##, sw##, and s#) and thus these do not need to be specified. 
+
+
+FREQUENCY DOMAIN:
+
+- Loading is disabled when collecting TD or FD signal (because the background worker uses the progress bar) or when loading another FD signal
+
+- In order to load a single signal, select the file you would like to load
+
+- In order to load a full array of signals, select the folder you would like to load
+
+- If there is an error loading the signal it is possible that 1. a file is missing 2.  the file name format is incorrect (check the "File name format" textbox in the TD tab). The file name format should be in the following form: sig_%TX%_%RX%.txt
+
+- Loading FD signals is slower and uses a background worker

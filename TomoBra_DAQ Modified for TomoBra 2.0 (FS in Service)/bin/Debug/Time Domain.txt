@@ -1,0 +1,32 @@
+TIME DOMAIN:
+
+There are 3 types of measurements that can be made in Time Domain using the PS9201A or "Picoscope":
+1. Single Acquistion
+2. Real Time Acquisition
+3. Full Array Acquisition
+
+1. Single Acquisition
+
+Features:
+- Can acquired and save multiple signals to text file
+- Can be Averaged / Filtered / Processed
+- Can store / plot acquired signal to graph
+
+In order to save signal to text file...
+check off the signal(s) you'd like to save in the Averaging box.
+e.g. PicoScope Averaging, Software Averaging, or Single Acquisition
+The program will then save in the format displayed in the "File name format" textbox.
+The default format is "sig_%TX%_%RX%.txt".
+The program will automatically replace %TX% and %RX% with the appropriate antenna values if known.
+NOTE: to set the antenna values, turn on the Switching Matrix and set antennae values.
+
+In order to plot...
+First, plotting requires storing the signal values to the global array. This means that the Switching Matrix must be turned on and the RX / TX antennae set to known values.
+Then, select the signal to be displayed from the "Analysis" groupbox and set # of averaging samples (if needed).
+NOTE: Saving to text file / checking values in the "Averaging" groupbox isn't necessary for plotting.
+
+
+
+2. Real Time Acquisition
+
+Features:
