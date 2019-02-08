@@ -1,5 +1,0 @@
--c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\ -I..\Project -I..\Libraries\CMSIS\Include -I..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I..\Utilities\STM32F4-Discovery -I..\Libraries\STM32_USB_OTG_Driver\inc -I..\Libraries\STM32_USB_Device_Library\Class\hid_custom\inc -I..\Libraries\STM32_USB_Device_Library\Core\inc 
--I C:\Keil\ARM\RV31\INC 
--I C:\Keil\ARM\CMSIS\Include 
--I C:\Keil\ARM\Inc\ST\STM32F4xx 
--DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DMANGUSTA_DISCOVERY -DUSE_USB_OTG_FS -DHSE_VALUE="8000000" -o ".\Out\stm32f4xx_dac.o" --omf_browse ".\Out\stm32f4xx_dac.crf" --depend ".\Out\stm32f4xx_dac.d" "..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c"
